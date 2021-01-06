@@ -133,7 +133,7 @@ section.top-banner {
 
 #last-ul li {
     color: white;
-
+    float: left;
 }
 
 .footer {
