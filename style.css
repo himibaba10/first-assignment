@@ -132,11 +132,16 @@ section.top-banner {
 }
 
 #last-ul li {
-    color: white;
+
     float: left;
 }
 
-.footer {
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
     color: #7a7d7f;
     text-align: center;
     padding-top: 44px;
