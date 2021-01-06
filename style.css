@@ -1,0 +1,157 @@
+body {
+    margin: 2px 24px;
+    box-shadow: 1px 1px 16px gray;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+#inside-pic {
+    color: white;
+    display: inline-block;
+    position: absolute;
+    top: 33px;
+    left: 45px;
+}
+
+p {
+    color: dimgray;
+}
+
+p, a {
+    font-family: 'Roboto Slab', serif;
+}
+h1,h2,h3 {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: bold;
+}
+.half-width {
+    float: left;
+    width: 37%;
+    margin-right: 4%;
+    padding-left: 5%;
+}
+
+.three-divide-width {
+    float: left;
+    width: 29%;
+    background-color: white;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 18px gray;
+}
+
+img {
+    width: 95%;
+}
+
+.gray-col {
+    background-color: #f1f1f1;
+    height: 680px;
+}
+ul{
+    list-style-type: none;
+    margin-right: 110px;
+}
+
+li {
+    float:right;
+    padding: 20px;
+    font-size: 20px;
+}
+
+section {
+    height: 455px;
+}
+section.top-banner {
+    padding-top: 105px;
+}
+
+.btn-style {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, orange);
+    padding: 18px 40px;
+    display: inline-block;
+    border-radius: 7px;
+    color: white;
+
+}
+
+#middle {
+    text-align: center;
+    padding: 77px 77px 50px;
+    font-size: 34px;
+}
+
+.container {
+    padding: 0px 140px;
+}
+
+.inside-padding {
+    margin: 19px 2px 20px 19px;
+    height: 300px;
+}
+
+.inside-con {
+    padding: 0px 1px;
+}
+
+.div-bg {
+    background-image: url("personal-website-main/shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    height: 229px;
+    background-size: 865px;
+    margin: 86px 228px 0px 206px;
+    position: relative;
+}
+
+.btn-margin {
+    margin-left: 26%;
+    margin-bottom: 81px;
+    position: absolute;
+    top: 81px;
+    right: 55px;
+}
+.ending-sec {
+    background-color: black;
+}
+
+#middle-white {
+    color: white;
+    text-align: center;
+    padding-top: 66px;
+    font-size: 33px;
+}
+
+#last-ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 140px;
+}
+
+#last-ul li {
+    color: white;
+
+}
+
+.footer {
+    color: #7a7d7f;
+    text-align: center;
+    padding-top: 44px;
+}
+
+.icon {
+    width: 3%;
+    padding: 7px;
+}
+
+.icon-container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+span {
+    color: #4877E8;
+}
